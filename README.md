@@ -8,9 +8,9 @@ FkomSec 1337 :
 
 
 
-| Kategori            | Soal                    | Hint                                                                                                                                                                                                                                                                             |
+| Kategori            | Soal                                                                                                                                                                                                                                                                                              |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Cryptography        | [easy AES](https://github.com/aceptriana/CTF-Gemastik2023/raw/main/Cryptography/easy-aes.zip)      | Attack on AES OFB                              |
+| Cryptography        | [easy AES](https://github.com/aceptriana/CTF-Gemastik2023/raw/main/Cryptography/easy-aes.zip)      
 | Forensic            | [Tzuyu](https://github.com/krobus00/WRITE-UP-WARM-UP-CTF-GEMASTIK-14/blob/master/WRITE%20UP%20WARM%20UP%20CTF%20GEMASTIK%2014%20ae6215cd50f14c3fa96859446382c7ad/Forensic%207743cfc61d8f44f983e18a9628d65d95/Tzuyu%2053cf611d8cf44b64903acafff036ff97.md)                                            |
 | Forensic            | [Visual is Fun](https://github.com/krobus00/WRITE-UP-WARM-UP-CTF-GEMASTIK-14/blob/master/WRITE%20UP%20WARM%20UP%20CTF%20GEMASTIK%2014%20ae6215cd50f14c3fa96859446382c7ad/Forensic%207743cfc61d8f44f983e18a9628d65d95/Visual%20is%20Fun%2065225d7c018245b28f89cde978688df8.md)                        |
 | Steganography       | [Suara Dengarkanlah Aku](https://github.com/krobus00/WRITE-UP-WARM-UP-CTF-GEMASTIK-14/blob/master/WRITE%20UP%20WARM%20UP%20CTF%20GEMASTIK%2014%20ae6215cd50f14c3fa96859446382c7ad/Steganography%20bb90c4bf9a614faba5c21a6f86ecb7a1/Suara%20Dengarkanlah%20Aku%20f9b9eec51b814569870d5adc41af4532.md) |
